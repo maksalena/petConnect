@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:PetConnect.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Tuist"
+      name = "Tuist">
+      <Group
+         location = "group:Dependencies"
+         name = "Dependencies">
+         <Group
+            location = "group:SwiftPackageManager"
+            name = "SwiftPackageManager">
+            <Group
+               location = "group:.build"
+               name = ".build">
+               <Group
+                  location = "group:checkouts"
+                  name = "checkouts">
+                  <FileRef
+                     location = "group:Alamofire/Alamofire.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AlertKit/AlertKit.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:GoogleDataTransport/GoogleDataTransport.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:GoogleUtilities/GoogleUtilities.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JTAppleCalendar/JTAppleCalendar.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SnapKit/SnapKit.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIColorExtensions/UIColorExtensions.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:firebase-ios-sdk/Firebase.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:keychain-swift/KeychainSwift.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:nanopb/nanopb.xcodeproj">
+                  </FileRef>
+                  <FileRef
+                     location = "group:promises/Promises.xcodeproj">
+                  </FileRef>
+               </Group>
+            </Group>
+         </Group>
+      </Group>
+   </Group>
+</Workspace>

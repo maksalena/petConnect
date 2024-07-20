@@ -1,0 +1,222 @@
+/Users/alenamaksimova/Desktop/petConnect/Derived/Sources/TuistAssets+PetConnect.swift
+/Users/alenamaksimova/Desktop/petConnect/Derived/Sources/TuistBundle+PetConnect.swift
+/Users/alenamaksimova/Desktop/petConnect/Derived/Sources/TuistFonts+PetConnect.swift
+/Users/alenamaksimova/Desktop/petConnect/Derived/Sources/TuistPlists+PetConnect.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/App/AppDelegate.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/App/SceneDelegate.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/Calendar/CalendarCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/Calendar/CalendarCustomView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/CollectionView/DynamicHeightCollectionView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/CollectionView/LeftAligmentCollectionViewFlowLayout.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/Forms/DatePicker/DatePickerField.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/Forms/DropDown/DropDownMenu.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/Forms/DropDown/DropDownTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/Forms/HBSegmentedControl.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/Forms/TextField/CustomTextField.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/LoadingUIView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/View/MainButtonView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/NavBar/NavBarWithBackButton.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/NavBar/PrimaryNavBarView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/Shapes/CustomStar.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/UiViewController/BaseUIViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/CustomViews/UiViewController/BaseUIViewPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/Date\ Extension.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/NSLayoutContraints\ Extension.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/NavigationContoller.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/Results\ Extension.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/StringExtension.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/TextField\ Extension.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/UIFont\ Extension.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/UILabelView+Extension.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/UIView\ Extension.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/UIViewController\ Extention.swift.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Extensions/Ui\ Window\ Extension.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/AuthBuilder.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Email\ Confirmation/Presenter/EmailConfirmationPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Email\ Confirmation/View/EmailConfirmationView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Email\ Confirmation/ViewController/EmailConfirmationViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Greeting/Presenter/GreetingPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Greeting/View/GreetingView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Greeting/ViewController/GreetingViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Sign\ In/Model/signInModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Sign\ In/Presenter/SignInPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Sign\ In/View/SignInView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/Sign\ In/ViewController/SignInViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/SignUp/Model/SignUpModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/SignUp/Presenter/signUpPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/SignUp/View/SignUpView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Auth/SignUp/ViewController/SignUpViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/AllAppointments/AppointmentListPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/AllAppointments/AppointmentListView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/AllAppointments/AppointmentListViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/AllAppointments/AppointmentViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/AppointmentType/Presenter/AppointmentTypePresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/AppointmentType/View/AppointmentTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/AppointmentType/View/AppointmentTypeView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/AppointmentType/ViewController/AppointmentTypeViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/CheckData/Presenter/CheckDataPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/CheckData/View/CheckDataItem.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/CheckData/View/CheckDataView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/CheckData/ViewController/CheckDataViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/ChooseDoctor/Model/DoctorModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/ChooseDoctor/Presenter/ChooseDoctorPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/ChooseDoctor/View/AppointmentTimeCollectionViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/ChooseDoctor/View/ChooseDoctorView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/ChooseDoctor/View/DoctorCollectionViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/ChooseDoctor/View/DoctorTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/ChooseDoctor/View/LoadDoctorsTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/ChooseDoctor/ViewController/ChooseDoctorViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/Model/ClinicServiceModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/Cells/BookTimeCellTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/Cells/BookTimeCollectionViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/Cells/ClinicDoctorsTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/Cells/ClinicFeedbackTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/Cells/ClinicInfoTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/Cells/ClinicSendFeedbackTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/Cells/ClinicServicesTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/Cells/ProfileClinicCollectionViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/Cells/SendBookButtonTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/View/ClinicProfileView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinic\ Profile/ViewController/ClinicProfileViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinics\ List/Model/PetClinicModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinics\ List/View/LoadClinicsCollectionViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinics\ List/View/OneClinicCollectionViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinics\ List/View/СlinicsListView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinics\ List/ViewController/ClinicsListViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Clinics\ List/presenter/ClinicsListPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/ClinicsAssembly.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Decline\ Appointment/DeclineAppointmentView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Decline\ Appointment/DeclineAppointmentViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Doctor\ Profile/Presenter/DoctorProfilePresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Doctor\ Profile/View/DoctorProfileView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Doctor\ Profile/View/SpecializationCollectionViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Doctor\ Profile/ViewController/DoctorProfileViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/Model/AppointmentModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/Presenter/ClinicsPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/Presenter/DeclineAppointmentPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/View/AppointmentView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/View/ClinicsView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/View/NoAppointmentView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/View/RatingView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/View/ServiceView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/ViewController/ClinicsViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Main/ViewController/ServiceViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Request/Model/RequestModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Request/Presenter/RequestPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Request/View/RequestView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Request/ViewController/RequestViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Specialists/Presenter/SpecialistPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Specialists/View/AppointmentServiceTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Specialists/View/SpecialistView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Clinics/Specialists/ViewController/SpecialistViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/HomePageAssembly.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/HomePageBuilder.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/Notification\ detail/Model/Notification.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/Notification\ detail/Presenter/NotificationPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/Notification\ detail/View/NotificationView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/Notification\ detail/View/OneNotificationView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/Notification\ detail/ViewController/NotificationViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/homePage/Presenter/HomePagePresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/homePage/View/HomePageView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/homePage/View/NotificationsTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/homePage/View/PetsCollectionViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/HomePage/homePage/ViewController/HomePageViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Main/BaseNavigationController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Main/MainBuilder.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Main/MainTabBarViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/AddPet/Presenter/AddPetPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/AddPet/View/AddPetView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/AddPet/View/ChipView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/AddPet/View/TattooView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/AddPet/ViewController/AddPetViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/AllPets/View/AllPetsView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/AllPets/View/PetMainTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/AllPets/ViewController/PetViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/PetAssembly.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/PetDetail/View/PetDetailInfoRow.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/PetDetail/View/PetDetailSquare.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/PetDetail/View/PetDetailView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/PetDetail/ViewController/PetDetailPhotoViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/Presenter/PetDetailPhotoPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/Presenter/PetDetilInfoPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/Presenter/PetsPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/model/PetHim.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/model/Section.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Pet/model/TableInfo.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Profile/Presenter/ProfilePresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Profile/View/ProfileElement.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Profile/View/ProfileView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Profile/ViewController/ProfileViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/UIViewController+Extention.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/MapAssembly.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/Model/Place.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/Presenter/MainMapPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/Presenter/MapPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/View/Favorite/FavoriteTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/View/Favorite/FavoriteViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/View/MapView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/View/PlaceAnnotation.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/View/PlaceCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/View/SheetPresentations/AddPlaceViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/View/SheetPresentations/PlaceDescriptionViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Map/ViewController/MapController/MapViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/WalkAssemby.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/Model/WalksModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/Presenter/ChoosingPetPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/Presenter/CompleteWalkPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/Presenter/WalkPresenter.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/View/Cells/AvailablePetsTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/View/Cells/PetWalkTableViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/View/Cells/WalksCollectionViewCell.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/View/SheetPresentations/ChoosingPetViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/View/SheetPresentations/CompleteWalkViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/View/Walk/WalkView.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Modules/Walk/Walp\ page/ViewController/WalkViewController.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/Clinics/Network/AppointmentController/AppointmentClinicsNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/Clinics/Network/AppointmentController/Json/AppointmentControllerJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/Clinics/Network/AppointmentController/Json/createRatingRequestJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/Clinics/Network/Clinic\ controller/ClientClinicsNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/Clinics/Network/Clinic\ controller/Json/ClientClinicsJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/Clinics/Network/ClinicsGeneralNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/Clinics/Network/DoctorController/ClientDoctorsNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/Clinics/Network/DoctorController/Json/DoctorControllerJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/KeyChain/KeyChainStorage.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/Realm/Files/ImageRealmModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/Realm/Files/ImageRealmService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/Realm/Pet/PetRealmModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/Realm/Pet/PetsRealmService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/Realm/RealmMigrations.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/Realm/TabletsFodders/TabletsFoddersRealmModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/Realm/TabletsFodders/TabletsFoddersRealmService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/Realm/Walks/WalksRealmModel.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/Realm/Walks/WalksRelmService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/LocalStorage/UserDefaults/UserDefaultsService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/AuthNetworkService/AuthNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/AuthNetworkService/Json/AuthResponseJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/AuthNetworkService/Json/AuthrequestJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/GeneralNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Map/JSON/MapJsonResponse.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Map/JSON/MapRequestJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Map/MapNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Pets/Json/PetJsonRequest.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Pets/Json/PetJsonResponse.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Pets/PetsNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Tablets\ and\ Fodders/Json/TabletsFoddersJsonResponse.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Tablets\ and\ Fodders/Json/TabletsFoddersRequestJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Tablets\ and\ Fodders/TabletsFoddersNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/UsersNetworkService/Json/RequestJsonStructs.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/UsersNetworkService/Json/ResponseJsonStructs.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/UsersNetworkService/UsersNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Walk/Json/WalkJsonResponse.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Walk/Json/WalkRequestJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/Walk/WalkNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/files/FilesNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/files/json/FilesRequestJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/files/json/FilesResponseJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/pet\ tracker/Json/PetTrackerRequestJson.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/PetConnect/NetworkServices/pet\ tracker/PetTrackerNetworkService.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/ValidationServices/Auth/AuthValidation.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/ValidationServices/DateValidation.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/ValidationServices/DescriptionValidation.swift
+/Users/alenamaksimova/Desktop/petConnect/Targets/PetConnectIOS/Sources/Services/ValidationServices/Notification/TimeValidation.swift
+/Users/alenamaksimova/Desktop/petConnect/DerivedData/PetConnect/Index.noindex/Build/Intermediates.noindex/PetConnect.build/Debug-iphoneos/PetConnect.build/DerivedSources/GeneratedAssetSymbols.swift
